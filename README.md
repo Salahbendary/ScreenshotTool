@@ -34,4 +34,4 @@ Here’s an example of a screenshot taken by the tool:
 
 ## Author
 
-Salah Bendary - [Salah Bendary](https://www.linkedin.com/in/salahbendary/)
+Salah Bendary - [LinkedIn Profile](https://www.linkedin.com/in/salahbendary/)
